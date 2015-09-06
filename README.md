@@ -1,0 +1,1 @@
+Just copy the ```powerline``` into your ~/.config directory
